@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "835277967598",
+    "firebase_url": "https://ekys-715a8-default-rtdb.firebaseio.com",
+    "project_id": "ekys-715a8",
+    "storage_bucket": "ekys-715a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835277967598:android:4725368112f832020523ff",
+        "android_client_info": {
+          "package_name": "com.bananec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd6iyGSKNKPcySWJYEgqmzR3NzJx6WT5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835277967598:android:1b79e3304a310f540523ff",
+        "android_client_info": {
+          "package_name": "com.codetalks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd6iyGSKNKPcySWJYEgqmzR3NzJx6WT5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835277967598:android:d8d69cca398744640523ff",
+        "android_client_info": {
+          "package_name": "com.ekys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd6iyGSKNKPcySWJYEgqmzR3NzJx6WT5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
